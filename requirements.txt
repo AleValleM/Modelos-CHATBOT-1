@@ -1,0 +1,4 @@
+python-dotenv       # para manejo de variables de entorno
+groq==0.13.1        # SDK de Groq para usar modelos (si optas por Groq)
+openai==0.27.8      # SDK de OpenAI (si optas por OpenAI)
+
